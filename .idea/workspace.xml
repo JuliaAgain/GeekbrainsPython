@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc6ac8f-e11b-4b20-b498-5faf383be188" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les2-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JuliaAgain"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JuliaAgain&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="8f75c46d-b441-4b09-a7d3-7d0d1a0b4564" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JuliaAgain/GeekbrainsPython.git",
-    "accountId": "8f75c46d-b441-4b09-a7d3-7d0d1a0b4564"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JuliaAgain/GeekbrainsPython.git&quot;,
+    &quot;accountId&quot;: &quot;8f75c46d-b441-4b09-a7d3-7d0d1a0b4564&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -59,6 +54,7 @@
     "Python.Homework1-1.executor": "Run",
     "Python.Homework1-2.executor": "Run",
     "Python.Homework1-3.executor": "Run",
+    "Python.Homework2-1.executor": "Run",
     "Python.dp.executor": "Run",
     "Python.les 1-3.executor": "Run",
     "Python.les1-2.executor": "Run",
