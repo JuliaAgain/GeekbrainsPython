@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc6ac8f-e11b-4b20-b498-5faf383be188" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homewrk2-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.Homework1-2.executor": "Run",
     "Python.Homework1-3.executor": "Run",
     "Python.Homework2-1.executor": "Run",
+    "Python.Homewrk2-2.executor": "Run",
     "Python.dp.executor": "Run",
     "Python.les 1-3.executor": "Run",
     "Python.les1-2.executor": "Run",
