@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc6ac8f-e11b-4b20-b498-5faf383be188" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework4-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les4-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework4-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework4-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +60,8 @@
     "Python.Homework3-2.executor": "Run",
     "Python.Homework3-3.executor": "Run",
     "Python.Homework4-1.executor": "Run",
+    "Python.Homework4-2.executor": "Run",
+    "Python.Homework4-3.executor": "Run",
     "Python.Homewrk2-2.executor": "Run",
     "Python.dp.executor": "Run",
     "Python.les 1-3.executor": "Run",
