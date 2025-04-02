@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc6ac8f-e11b-4b20-b498-5faf383be188" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework5-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework4-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +70,9 @@
     "Python.Homework4-1.executor": "Run",
     "Python.Homework4-2.executor": "Run",
     "Python.Homework4-3.executor": "Run",
+    "Python.Homework5-1.executor": "Run",
+    "Python.Homework5-2.executor": "Run",
+    "Python.Homework5-3.executor": "Run",
     "Python.Homewrk2-2.executor": "Run",
     "Python.dp.executor": "Run",
     "Python.les 1-3.executor": "Run",
@@ -89,6 +101,13 @@
     "Python.les4-6.executor": "Run",
     "Python.les4-7.executor": "Run",
     "Python.les4-8.executor": "Run",
+    "Python.les5-1.executor": "Run",
+    "Python.les5-2.executor": "Run",
+    "Python.les5-3.executor": "Run",
+    "Python.les5-4.executor": "Run",
+    "Python.les5-5.executor": "Run",
+    "Python.les5-6.executor": "Run",
+    "Python.les5-7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
